@@ -1,0 +1,138 @@
+.img1 {
+	width: 10%;
+	height: 10%;
+
+}
+.img2 {
+	width: 40%;
+	height: 30%;
+	align-self: center;
+
+}
+.imgI {
+	width: 10%;
+	height: 5%;
+
+}
+.enTete {
+	height: 500px;
+	border:5px solid;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+}
+.imgI {
+
+    display: flex;
+    flex-direction: column;
+    
+
+
+}
+
+.corps1 {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	padding-right: 0px;
+	width: 5%;
+}
+.img9 {
+
+    width: 50%;
+    height: 50%;
+
+
+}
+
+
+
+
+.imgC {
+
+    width: 300px;
+    height: 300px;
+
+
+}
+.corps {
+
+	display: flex;
+	flex-direction: flex-start;
+	justify-content: space-between;
+}
+
+.corps2 {
+   margin-top: 100px;
+   display: flex;
+   flex-direction: flex-start;
+   justify-content: space-between;
+}
+.monTxt {
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	text-align: center;
+	margin-left: 50px;
+}
+.contact {
+
+    margin-top: 50px; 
+    display: flex;
+    justify-content: space-between;
+
+}
+.iMg {
+
+
+    width: 300px;
+    height: 300px;
+
+}
+.contact1 {
+
+     display: flex;
+     flex-direction: column;
+     justify-content: space-around;
+
+
+
+}
+.inputGroup {
+	  margin-top: 100px;
+	  height: 500px;
+
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-direction: column;
+
+
+}
+.gros
+{
+
+width: 180px;
+height: 100px;
+}
+
+.fin {
+
+    display: flex;
+    justify-content: space-around;
+
+}
+.sn {
+
+     display: flex;
+
+
+}
+.sn  {
+     width: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
